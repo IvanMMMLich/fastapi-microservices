@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.128.0-green.svg)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 > **Автор:** Сычёв Иван Александрович  
 > **Год:** 2025  
@@ -336,7 +336,4 @@ curl -X POST "http://localhost:8001/shorten" \
 
 **Контакты:**
 - GitHub: [@IvanMMMLich](https://github.com/IvanMMMLich)
-- Email: [sychovivanivan15@mail.ru]
-
-
-**⭐ Если проект понравился - поставьте звезду на GitHub!**
+- Email: sychovivanivan15@mail.ru
